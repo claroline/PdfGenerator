@@ -1,3 +1,8 @@
+WARNING
+-------
+
+**DEVELOPMENT HAS MOVED TO [claroline/Distribution](http://github.com/claroline/Distribution). THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
 This bundle requires wkhtmltopdf (http://wkhtmltopdf.org/downloads.html)
 
 Don't forget to install the fonts (or the install won't work).
